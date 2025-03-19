@@ -290,7 +290,7 @@ hr {
 
     .header .menu-icon {
         order: -1; /* per avere il menu-icon a sinistra */
-        margin-right: auto; /* serve a mantenerlo a sinistra */
+        margin-right: 0; /* serve a mantenerlo a sinistra */
     }
 
     .header h1 {
