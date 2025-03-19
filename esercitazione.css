@@ -213,7 +213,7 @@ hr {
     }
     .header h1 {
         font-size: 1.5rem; /* Riduciamo la dimensione del titolo */
-        margin: 0;
+        margin-right: 0px;
     }
 
     .nav-links {
@@ -290,11 +290,12 @@ hr {
 
     .header .menu-icon {
         order: -1; /* per avere il menu-icon a sinistra */
-        margin-right: 0; /* serve a mantenerlo a sinistra */
+        margin-right: auto; /* serve a mantenerlo a sinistra */
     }
 
     .header h1 {
         font-size: 1.5rem;
+        margin-right: 0;
     }
 
     .nav-links {
