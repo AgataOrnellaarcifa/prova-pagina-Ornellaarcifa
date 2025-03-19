@@ -213,7 +213,7 @@ hr {
     }
     .header h1 {
         font-size: 1.5rem; /* Riduciamo la dimensione del titolo */
-        margin-right: 0px;
+        margin-left: 0px;
     }
 
     .nav-links {
