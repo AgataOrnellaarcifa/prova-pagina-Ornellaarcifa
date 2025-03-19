@@ -258,13 +258,13 @@ hr {
 
     /* ARTICOLI */
     article {
-        flex-direction: column; /* Immagine sopra il testo */
+        flex-direction: column;
         align-items: center;
         text-align: center;
     }
 
     article img {
-        width: 90%; /* Adattiamo l'immagine alla larghezza del telefono */
+        width: 90%; 
         height: auto;
         margin-bottom: 10px;
     }
